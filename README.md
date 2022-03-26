@@ -1,5 +1,5 @@
 # writeups                                                                             
-For now, this repository contains a writeup of some of my own understanding     of classical regression that I wanted to get out of my head and into writing.
+This repository contains some thoughts (usually additional geometric insight) for various machine learning algorithms.
                                                                              
 ### Regression                                                              
                                                                              
